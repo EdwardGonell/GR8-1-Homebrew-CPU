@@ -3,6 +3,7 @@
 
 ## To do list
 - [x] General Schematic of the Architecture
+- [ ] Instruction Set Architecture
 - [ ] Architecture Overview Document
 - [ ] Fetch Unit
   - [x] Edge Detect Circuit
