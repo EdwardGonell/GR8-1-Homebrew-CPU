@@ -1,5 +1,5 @@
 # [GR8-1]
-A Home-Brew CPU project with custom compilers.
+# A Home-Brew CPU project with custom compilers.
 
 ## Licensing
 This project uses two licenses:
